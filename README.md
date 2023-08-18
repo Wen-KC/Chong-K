@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chong-K
+- 👋 Hi, I’m @KC
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python, SQL and R
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me
 
